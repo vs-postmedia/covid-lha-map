@@ -1,0 +1,20 @@
+.flourish-popup-content {
+	/*height: 100px;*/
+	pointer-events: none;
+	position: absolute;
+	/*width: 150px;*/
+}
+.flourish-popup-content .tooltip-content {
+	background: rgba(255,255,255,0.8);
+	padding: 5px;
+}
+
+.flourish-popup-content .tooltip-content h4 {
+	font-family: BentonSansCond-Bold, Helvetica, sans-serif;
+	margin: 0;
+	padding-bottom: 5px;
+}
+
+.flourish-popup-content .tooltip-content p {
+	margin-bottom: 3px
+}
