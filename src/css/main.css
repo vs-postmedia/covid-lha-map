@@ -1,7 +1,13 @@
 svg {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
+	display: block;
+	margin: 0 auto;
 	height: 500px;
 	width: 500px;
+}
+
+.blue {
+	color: var(--blue01);
 }
 
 /* POSTMEDIA STYLES */
