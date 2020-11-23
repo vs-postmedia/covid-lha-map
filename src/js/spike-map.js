@@ -4,7 +4,7 @@ import * as topojson from 'topojson-client';
 import TooltipTemplate from '../components/TooltipTemplate/tooltip-template';
 
 // vars
-let path, svg;
+let path, svg, zoom;
 const height = 500;
 const width = 500;
 const spikeWidth = 7;
@@ -21,7 +21,6 @@ const init = async (json, data_raw) => {
 	// path to parse the topojson
 	path = d3.geoPath()
 		.projection(projection);
-
 
 	// create features lookup (by id)
 	const features = new Map(
@@ -45,6 +44,7 @@ const init = async (json, data_raw) => {
 	let map = await createBaseMap(json);
 	map = await addSpikes(map, data);
 	map = await addInteractivity(map);
+	map = await addZoom(map);
 
 	// add the map to the DOM
 	app.append(map.node())
@@ -91,10 +91,28 @@ function addSpikes(svg, data) {
 	return svg;
 }
 
+function addZoom(svg) {
+	const zoom = d3.zoom()
+		.scaleExtent([1,18])
+		.on('zoom', () => {
+			svg.selectAll('.regions')
+				.attr('transform', d3.event.transform);
+			svg.selectAll('.spikes')
+				.attr('transform', d3.event.transform);
+		});
+
+	svg.call(zoom);
+
+	return svg;
+}
+
 function createBaseMap(json) {
 	// setup svg
 	svg = d3.create('svg')
 		.attr('viewBox', [ 0, 0, height, width]);
+
+	// zoom = svg.append('g')
+	// 	.attr('class', 'zoom');
 
 
 	svg.append('path')
@@ -103,6 +121,7 @@ function createBaseMap(json) {
 		.attr('fill', '#EAEBEC')
 		.attr('stroke', '#FFF')
 		.attr('stroke-linejoin', 'round')
+		.attr('stroke-width', '0.25px')
 		.attr('d', path)
 		;
 
