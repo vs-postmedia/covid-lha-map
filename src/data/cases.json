@@ -1,0 +1,892 @@
+[
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 32,
+    "HSDA_Name": "Vancouver",
+    "LHA_CD": 322,
+    "LHA_Name": "Vancouver - Centre North",
+    "LHA_Pop16": 61532,
+    "cases_oct31": 672,
+    "per_100k": 1092.1
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 23,
+    "HSDA_Name": "Fraser South",
+    "LHA_CD": 233,
+    "LHA_Name": "Surrey",
+    "LHA_Pop16": 443367,
+    "cases_oct31": 3993,
+    "per_100k": 900.6
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 32,
+    "HSDA_Name": "Vancouver",
+    "LHA_CD": 321,
+    "LHA_Name": "Vancouver - City Centre",
+    "LHA_Pop16": 122041,
+    "cases_oct31": 857,
+    "per_100k": 702.2
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 510,
+    "LHA_Name": "Haida Gwaii",
+    "LHA_Pop16": 4198,
+    "cases_oct31": 27,
+    "per_100k": 643.2
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 21,
+    "HSDA_Name": "Fraser East",
+    "LHA_CD": 213,
+    "LHA_Name": "Abbotsford",
+    "LHA_Pop16": 141685,
+    "cases_oct31": 880,
+    "per_100k": 621.1
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 32,
+    "HSDA_Name": "Vancouver",
+    "LHA_CD": 326,
+    "LHA_Name": "Vancouver - South",
+    "LHA_Pop16": 134575,
+    "cases_oct31": 660,
+    "per_100k": 490.4
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 21,
+    "HSDA_Name": "Fraser East",
+    "LHA_CD": 214,
+    "LHA_Name": "Mission",
+    "LHA_Pop16": 43157,
+    "cases_oct31": 210,
+    "per_100k": 486.6
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 32,
+    "HSDA_Name": "Vancouver",
+    "LHA_CD": 323,
+    "LHA_Name": "Vancouver - Northeast",
+    "LHA_Pop16": 103894,
+    "cases_oct31": 471,
+    "per_100k": 453.3
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 23,
+    "HSDA_Name": "Fraser South",
+    "LHA_CD": 232,
+    "LHA_Name": "Delta",
+    "LHA_Pop16": 103064,
+    "cases_oct31": 428,
+    "per_100k": 415.3
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 332,
+    "LHA_Name": "West Vancouver/Bowen Island",
+    "LHA_Pop16": 50490,
+    "cases_oct31": 206,
+    "per_100k": 408
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 32,
+    "HSDA_Name": "Vancouver",
+    "LHA_CD": 325,
+    "LHA_Name": "Vancouver - Midtown",
+    "LHA_Pop16": 95808,
+    "cases_oct31": 389,
+    "per_100k": 406
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 331,
+    "LHA_Name": "North Vancouver",
+    "LHA_Pop16": 141392,
+    "cases_oct31": 554,
+    "per_100k": 391.8
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 22,
+    "HSDA_Name": "Fraser North",
+    "LHA_CD": 221,
+    "LHA_Name": "New Westminster",
+    "LHA_Pop16": 70996,
+    "cases_oct31": 268,
+    "per_100k": 377.5
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 22,
+    "HSDA_Name": "Fraser North",
+    "LHA_CD": 222,
+    "LHA_Name": "Burnaby",
+    "LHA_Pop16": 232755,
+    "cases_oct31": 857,
+    "per_100k": 368.2
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 22,
+    "HSDA_Name": "Fraser North",
+    "LHA_CD": 224,
+    "LHA_Name": "Tri-Cities",
+    "LHA_Pop16": 234393,
+    "cases_oct31": 783,
+    "per_100k": 334.1
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 337,
+    "LHA_Name": "Central Coast",
+    "LHA_Pop16": 1514,
+    "cases_oct31": 5,
+    "per_100k": 330.3
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 23,
+    "HSDA_Name": "Fraser South",
+    "LHA_CD": 231,
+    "LHA_Name": "Langley",
+    "LHA_Pop16": 143778,
+    "cases_oct31": 472,
+    "per_100k": 328.3
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 23,
+    "HSDA_Name": "Fraser South",
+    "LHA_CD": 234,
+    "LHA_Name": "South Surrey/White Rock",
+    "LHA_Pop16": 94768,
+    "cases_oct31": 298,
+    "per_100k": 314.5
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 32,
+    "HSDA_Name": "Vancouver",
+    "LHA_CD": 324,
+    "LHA_Name": "Vancouver - Westside",
+    "LHA_Pop16": 131178,
+    "cases_oct31": 395,
+    "per_100k": 301.1
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 53,
+    "HSDA_Name": "Northeast",
+    "LHA_CD": 532,
+    "LHA_Name": "Peace River North",
+    "LHA_Pop16": 35521,
+    "cases_oct31": 105,
+    "per_100k": 295.6
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 22,
+    "HSDA_Name": "Fraser North",
+    "LHA_CD": 223,
+    "LHA_Name": "Maple Ridge/Pitt Meadows",
+    "LHA_Pop16": 101101,
+    "cases_oct31": 285,
+    "per_100k": 281.9
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 335,
+    "LHA_Name": "Howe Sound",
+    "LHA_Pop16": 38653,
+    "cases_oct31": 107,
+    "per_100k": 276.8
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 43,
+    "HSDA_Name": "North Vancouver Island",
+    "LHA_CD": 434,
+    "LHA_Name": "Vancouver Island North",
+    "LHA_Pop16": 11235,
+    "cases_oct31": 31,
+    "per_100k": 275.9
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 21,
+    "HSDA_Name": "Fraser East",
+    "LHA_CD": 215,
+    "LHA_Name": "Agassiz/Harrison",
+    "LHA_Pop16": 9696,
+    "cases_oct31": 26,
+    "per_100k": 268.2
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 514,
+    "LHA_Name": "Smithers",
+    "LHA_Pop16": 16414,
+    "cases_oct31": 42,
+    "per_100k": 255.9
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 149,
+    "LHA_Name": "Merritt",
+    "LHA_Pop16": 10855,
+    "cases_oct31": 27,
+    "per_100k": 248.7
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 53,
+    "HSDA_Name": "Northeast",
+    "LHA_CD": 531,
+    "LHA_Name": "Peace River South",
+    "LHA_Pop16": 26850,
+    "cases_oct31": 64,
+    "per_100k": 238.4
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 336,
+    "LHA_Name": "Bella Coola Valley",
+    "LHA_Pop16": 2678,
+    "cases_oct31": 6,
+    "per_100k": 224
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 137,
+    "LHA_Name": "Central Okanagan",
+    "LHA_Pop16": 194882,
+    "cases_oct31": 409,
+    "per_100k": 209.9
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 21,
+    "HSDA_Name": "Fraser East",
+    "LHA_CD": 212,
+    "LHA_Name": "Chilliwack",
+    "LHA_Pop16": 93177,
+    "cases_oct31": 194,
+    "per_100k": 208.2
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 31,
+    "HSDA_Name": "Richmond",
+    "LHA_CD": 311,
+    "LHA_Name": "Richmond",
+    "LHA_Pop16": 198309,
+    "cases_oct31": 411,
+    "per_100k": 207.3
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 334,
+    "LHA_Name": "Powell River",
+    "LHA_Pop16": 19671,
+    "cases_oct31": 39,
+    "per_100k": 198.3
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 52,
+    "HSDA_Name": "Northern Interior",
+    "LHA_CD": 523,
+    "LHA_Name": "Nechako",
+    "LHA_Pop16": 15857,
+    "cases_oct31": 26,
+    "per_100k": 164
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 11,
+    "HSDA_Name": "East Kootenay",
+    "LHA_CD": 114,
+    "LHA_Name": "Windermere",
+    "LHA_Pop16": 9487,
+    "cases_oct31": 12,
+    "per_100k": 126.5
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 148,
+    "LHA_Name": "South Cariboo",
+    "LHA_Pop16": 6548,
+    "cases_oct31": 8,
+    "per_100k": 122.2
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 518,
+    "LHA_Name": "Nisga'a",
+    "LHA_Pop16": 1880,
+    "cases_oct31": 2,
+    "per_100k": 106.4
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 52,
+    "HSDA_Name": "Northern Interior",
+    "LHA_CD": 524,
+    "LHA_Name": "Prince George",
+    "LHA_Pop16": 95077,
+    "cases_oct31": 99,
+    "per_100k": 104.1
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 517,
+    "LHA_Name": "Terrace",
+    "LHA_Pop16": 20250,
+    "cases_oct31": 20,
+    "per_100k": 98.8
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 143,
+    "LHA_Name": "Kamloops",
+    "LHA_Pop16": 113287,
+    "cases_oct31": 111,
+    "per_100k": 98
+  },
+  {
+    "HA_Name": "Vancouver Coastal",
+    "HSDA_CD": 33,
+    "HSDA_Name": "North Shore/Coast Garibaldi",
+    "LHA_CD": 333,
+    "LHA_Name": "Sunshine Coast",
+    "LHA_Pop16": 29970,
+    "cases_oct31": 29,
+    "per_100k": 96.8
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 53,
+    "HSDA_Name": "Northeast",
+    "LHA_CD": 533,
+    "LHA_Name": "Fort Nelson",
+    "LHA_Pop16": 5514,
+    "cases_oct31": 5,
+    "per_100k": 90.7
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 144,
+    "LHA_Name": "100 Mile House",
+    "LHA_Pop16": 14112,
+    "cases_oct31": 12,
+    "per_100k": 85
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 138,
+    "LHA_Name": "Summerland",
+    "LHA_Pop16": 12110,
+    "cases_oct31": 9,
+    "per_100k": 74.3
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 11,
+    "HSDA_Name": "East Kootenay",
+    "LHA_CD": 116,
+    "LHA_Name": "Golden",
+    "LHA_Pop16": 6851,
+    "cases_oct31": 5,
+    "per_100k": 73
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 123,
+    "LHA_Name": "Castlegar",
+    "LHA_Pop16": 13710,
+    "cases_oct31": 10,
+    "per_100k": 72.9
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 139,
+    "LHA_Name": "Enderby",
+    "LHA_Pop16": 7285,
+    "cases_oct31": 5,
+    "per_100k": 68.6
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 132,
+    "LHA_Name": "Penticton",
+    "LHA_Pop16": 41799,
+    "cases_oct31": 27,
+    "per_100k": 64.6
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 42,
+    "HSDA_Name": "Central Vancouver Island",
+    "LHA_CD": 426,
+    "LHA_Name": "Alberni/Clayoquot",
+    "LHA_Pop16": 30981,
+    "cases_oct31": 20,
+    "per_100k": 64.6
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 11,
+    "HSDA_Name": "East Kootenay",
+    "LHA_CD": 111,
+    "LHA_Name": "Fernie",
+    "LHA_Pop16": 15531,
+    "cases_oct31": 10,
+    "per_100k": 64.4
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 136,
+    "LHA_Name": "Vernon",
+    "LHA_Pop16": 66849,
+    "cases_oct31": 43,
+    "per_100k": 64.3
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 131,
+    "LHA_Name": "Southern Okanagan",
+    "LHA_Pop16": 19231,
+    "cases_oct31": 12,
+    "per_100k": 62.4
+  },
+  {
+    "HA_Name": "Fraser",
+    "HSDA_CD": 21,
+    "HSDA_Name": "Fraser East",
+    "LHA_CD": 211,
+    "LHA_Name": "Hope",
+    "LHA_Pop16": 8129,
+    "cases_oct31": 5,
+    "per_100k": 61.5
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 52,
+    "HSDA_Name": "Northern Interior",
+    "LHA_CD": 521,
+    "LHA_Name": "Quesnel",
+    "LHA_Pop16": 23205,
+    "cases_oct31": 13,
+    "per_100k": 56
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 43,
+    "HSDA_Name": "North Vancouver Island",
+    "LHA_CD": 433,
+    "LHA_Name": "Vancouver Island West",
+    "LHA_Pop16": 1901,
+    "cases_oct31": 1,
+    "per_100k": 52.6
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 146,
+    "LHA_Name": "Cariboo/Chilcotin",
+    "LHA_Pop16": 24815,
+    "cases_oct31": 13,
+    "per_100k": 52.4
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 125,
+    "LHA_Name": "Trail",
+    "LHA_Pop16": 19367,
+    "cases_oct31": 10,
+    "per_100k": 51.6
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 147,
+    "LHA_Name": "Lillooet",
+    "LHA_Pop16": 4012,
+    "cases_oct31": 2,
+    "per_100k": 49.9
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 43,
+    "HSDA_Name": "North Vancouver Island",
+    "LHA_CD": 431,
+    "LHA_Name": "Comox Valley",
+    "LHA_Pop16": 66527,
+    "cases_oct31": 33,
+    "per_100k": 49.6
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 135,
+    "LHA_Name": "Armstrong/Spallumcheen",
+    "LHA_Pop16": 10220,
+    "cases_oct31": 5,
+    "per_100k": 48.9
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 122,
+    "LHA_Name": "Nelson",
+    "LHA_Pop16": 25523,
+    "cases_oct31": 12,
+    "per_100k": 47
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 124,
+    "LHA_Name": "Arrow Lakes",
+    "LHA_Pop16": 4501,
+    "cases_oct31": 2,
+    "per_100k": 44.4
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 515,
+    "LHA_Name": "Kitimat",
+    "LHA_Pop16": 9090,
+    "cases_oct31": 4,
+    "per_100k": 44
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 43,
+    "HSDA_Name": "North Vancouver Island",
+    "LHA_CD": 432,
+    "LHA_Name": "Greater Campbell River",
+    "LHA_Pop16": 42570,
+    "cases_oct31": 18,
+    "per_100k": 42.3
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 11,
+    "HSDA_Name": "East Kootenay",
+    "LHA_CD": 112,
+    "LHA_Name": "Cranbrook",
+    "LHA_Pop16": 26248,
+    "cases_oct31": 11,
+    "per_100k": 41.9
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 141,
+    "LHA_Name": "Revelstoke",
+    "LHA_Pop16": 8085,
+    "cases_oct31": 3,
+    "per_100k": 37.1
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 512,
+    "LHA_Name": "Prince Rupert",
+    "LHA_Pop16": 13501,
+    "cases_oct31": 5,
+    "per_100k": 37
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 126,
+    "LHA_Name": "Grand Forks",
+    "LHA_Pop16": 8611,
+    "cases_oct31": 3,
+    "per_100k": 34.8
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 42,
+    "HSDA_Name": "Central Vancouver Island",
+    "LHA_CD": 424,
+    "LHA_Name": "Greater Nanaimo",
+    "LHA_Pop16": 108964,
+    "cases_oct31": 36,
+    "per_100k": 33
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 52,
+    "HSDA_Name": "Northern Interior",
+    "LHA_CD": 522,
+    "LHA_Name": "Burns Lake",
+    "LHA_Pop16": 6256,
+    "cases_oct31": 2,
+    "per_100k": 32
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 121,
+    "LHA_Name": "Kootenay Lake",
+    "LHA_Pop16": 3209,
+    "cases_oct31": 1,
+    "per_100k": 31.2
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 41,
+    "HSDA_Name": "South Vancouver Island",
+    "LHA_CD": 411,
+    "LHA_Name": "Greater Victoria",
+    "LHA_Pop16": 225919,
+    "cases_oct31": 63,
+    "per_100k": 27.9
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 41,
+    "HSDA_Name": "South Vancouver Island",
+    "LHA_CD": 412,
+    "LHA_Name": "Western Communities",
+    "LHA_Pop16": 77460,
+    "cases_oct31": 21,
+    "per_100k": 27.1
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 142,
+    "LHA_Name": "Salmon Arm",
+    "LHA_Pop16": 33648,
+    "cases_oct31": 9,
+    "per_100k": 26.7
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 42,
+    "HSDA_Name": "Central Vancouver Island",
+    "LHA_CD": 421,
+    "LHA_Name": "Cowichan Valley South",
+    "LHA_Pop16": 58378,
+    "cases_oct31": 14,
+    "per_100k": 24
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 11,
+    "HSDA_Name": "East Kootenay",
+    "LHA_CD": 115,
+    "LHA_Name": "Creston",
+    "LHA_Pop16": 12634,
+    "cases_oct31": 3,
+    "per_100k": 23.7
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 41,
+    "HSDA_Name": "South Vancouver Island",
+    "LHA_CD": 413,
+    "LHA_Name": "Saanich Peninsula",
+    "LHA_Pop16": 64692,
+    "cases_oct31": 15,
+    "per_100k": 23.2
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 134,
+    "LHA_Name": "Princeton",
+    "LHA_Pop16": 4781,
+    "cases_oct31": 1,
+    "per_100k": 20.9
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 41,
+    "HSDA_Name": "South Vancouver Island",
+    "LHA_CD": 414,
+    "LHA_Name": "Southern Gulf Islands",
+    "LHA_Pop16": 15289,
+    "cases_oct31": 3,
+    "per_100k": 19.6
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 13,
+    "HSDA_Name": "Okanagan",
+    "LHA_CD": 133,
+    "LHA_Name": "Keremeos",
+    "LHA_Pop16": 5101,
+    "cases_oct31": 1,
+    "per_100k": 19.6
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 42,
+    "HSDA_Name": "Central Vancouver Island",
+    "LHA_CD": 425,
+    "LHA_Name": "Oceanside",
+    "LHA_Pop16": 47133,
+    "cases_oct31": 8,
+    "per_100k": 17
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 11,
+    "HSDA_Name": "East Kootenay",
+    "LHA_CD": 113,
+    "LHA_Name": "Kimberley",
+    "LHA_Pop16": 9178,
+    "cases_oct31": 1,
+    "per_100k": 10.9
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 42,
+    "HSDA_Name": "Central Vancouver Island",
+    "LHA_CD": 423,
+    "LHA_Name": "Cowichan Valley North",
+    "LHA_Pop16": 19121,
+    "cases_oct31": 2,
+    "per_100k": 10.5
+  },
+  {
+    "HA_Name": "Vancouver Island",
+    "HSDA_CD": 42,
+    "HSDA_Name": "Central Vancouver Island",
+    "LHA_CD": 422,
+    "LHA_Name": "Cowichan Valley West",
+    "LHA_Pop16": 6240,
+    "cases_oct31": 0,
+    "per_100k": 0
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 12,
+    "HSDA_Name": "Kootenay Boundary",
+    "LHA_CD": 127,
+    "LHA_Name": "Kettle Valley",
+    "LHA_Pop16": 3469,
+    "cases_oct31": 0,
+    "per_100k": 0
+  },
+  {
+    "HA_Name": "Interior",
+    "HSDA_CD": 14,
+    "HSDA_Name": "Thompson Cariboo Shuswap",
+    "LHA_CD": 145,
+    "LHA_Name": "North Thompson",
+    "LHA_Pop16": 4050,
+    "cases_oct31": 0,
+    "per_100k": 0
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 511,
+    "LHA_Name": "Snow Country",
+    "LHA_Pop16": 421,
+    "cases_oct31": 0,
+    "per_100k": 0
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 516,
+    "LHA_Name": "Stikine",
+    "LHA_Pop16": 1033,
+    "cases_oct31": 0,
+    "per_100k": 0
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 519,
+    "LHA_Name": "Telegraph Creek",
+    "LHA_Pop16": 595,
+    "cases_oct31": 0,
+    "per_100k": 0
+  },
+  {
+    "HA_Name": "Northern",
+    "HSDA_CD": 51,
+    "HSDA_Name": "Northwest",
+    "LHA_CD": 513,
+    "LHA_Name": "Upper Skeena",
+    "LHA_Pop16": 4223,
+    "cases_oct31": 0,
+    "per_100k": 0
+  }
+]

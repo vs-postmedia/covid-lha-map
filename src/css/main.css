@@ -1,14 +1,8 @@
-.benton-reg {
-	font-family: BentonSansCond-Regular;
+svg {
+	border: 1px solid red;
+	height: 500px;
+	width: 500px;
 }
-.benton-ital {
-	font-family: BentonSansCond-BoldItalic;
-}
-
-.sun-icon {
-	background: url('../images/sun.png');
-}
-
 
 /* POSTMEDIA STYLES */
 #app h1 {
